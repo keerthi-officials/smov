@@ -1,8 +1,4 @@
-import {
-  makeProviders,
-  makeStandardFetcher,
-  targets,
-} from "@vlop/providers";
+import { makeProviders, makeStandardFetcher, targets } from "@vlop/providers";
 
 import { isExtensionActiveCached } from "@/backend/extension/messaging";
 import {

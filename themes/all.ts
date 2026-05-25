@@ -4,10 +4,4 @@ import red from "./list/red";
 import gray from "./list/gray";
 import blck from "./list/blck";
 
-export const allThemes = [
-  teal,
-  blue,
-  gray,
-  red,
-  blck
-]
+export const allThemes = [teal, blue, gray, red, blck];

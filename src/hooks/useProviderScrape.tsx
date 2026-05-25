@@ -1,8 +1,4 @@
-import {
-  FullScraperEvents,
-  RunOutput,
-  ScrapeMedia,
-} from "@vlop/providers";
+import { FullScraperEvents, RunOutput, ScrapeMedia } from "@vlop/providers";
 import { RefObject, useCallback, useEffect, useRef, useState } from "react";
 
 import { isExtensionActiveCached } from "@/backend/extension/messaging";
