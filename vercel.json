@@ -1,8 +1,5 @@
 {
-    "installCommand": "pnpm install",
-      "env": {
-    "NODE_ENV": "development"
-  },
+    "installCommand": "pnpm install --dev && pnpm install",
   "rewrites": [
     {
       "source": "/(.*)",
