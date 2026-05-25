@@ -1,4 +1,5 @@
 {
+    "installCommand": "pnpm install --prod=false",
   "rewrites": [
     {
       "source": "/(.*)",
